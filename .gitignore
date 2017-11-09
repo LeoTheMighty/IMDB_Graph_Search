@@ -24,3 +24,8 @@ hs_err_pid*
 lists/*
 .idea/*
 *.iml
+/bin/
+
+# eclipse ignore
+*.classpath
+*.project
